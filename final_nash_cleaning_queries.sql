@@ -1,4 +1,4 @@
-USE Projects;
+
 /*
 
 DATA CLEANING IN SQL
